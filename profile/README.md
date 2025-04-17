@@ -1,5 +1,5 @@
-## Welcome to the OFFICIAL Github Repos of 2Advanced.net, LLC 👋
-
+## Welcome to the OFFICIAL Github Repo of 2Advanced.net, LLC 👋
+# Development Team
 <!--
 
 **Here are some ideas to get you started:**
